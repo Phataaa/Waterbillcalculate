@@ -1,0 +1,46 @@
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe.config
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\bin\Debug\WaterBillCalculator.pdb
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.AssemblyReference.cache
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.SuggestedBindingRedirects.cache
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.Form1.resources
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.Properties.Resources.resources
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.GenerateResource.cache
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.CoreCompileInputs.cache
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.exe
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.pdb
+C:\FPT\BTEC\FALL-2023\ITSE06304\Programming C#\Helloworld\WaterBillCalculator\obj\Debug\WaterBillCalculator.Form2.resources
+D:\Tutor\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe.config
+D:\Tutor\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe
+D:\Tutor\WaterBillCalculator\bin\Debug\WaterBillCalculator.pdb
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.AssemblyReference.cache
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.Properties.Resources.resources
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.GenerateResource.cache
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.CoreCompileInputs.cache
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.exe
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.pdb
+D:\Tutor\WaterBillCalculator\obj\Debug\WaterBillCalculator.WaterBillManagement.resources
+D:\prog\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe.config
+D:\prog\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe
+D:\prog\WaterBillCalculator\bin\Debug\WaterBillCalculator.pdb
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.AssemblyReference.cache
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.SuggestedBindingRedirects.cache
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.Login.resources
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.Properties.Resources.resources
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.WaterBillManagement.resources
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.GenerateResource.cache
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.CoreCompileInputs.cache
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.exe
+D:\prog\WaterBillCalculator\obj\Debug\WaterBillCalculator.pdb
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe.config
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\bin\Debug\WaterBillCalculator.exe
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\bin\Debug\WaterBillCalculator.pdb
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.Login.resources
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.WaterBillManagement.resources
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.exe
+C:\Users\ADMIN\Downloads\WaterBillCalculator\WaterBillCalculator\obj\Debug\WaterBillCalculator.pdb
